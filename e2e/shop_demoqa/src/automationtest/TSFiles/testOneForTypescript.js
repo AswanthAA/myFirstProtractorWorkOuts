@@ -1,0 +1,14 @@
+var message = "Hello World";
+console.log(message);
+class Check {
+    constructor() {
+        this.num_1 = 100;
+    }
+    function_1() {
+        console.log("sjkdbjsdnfnsdfbgkhj");
+    }
+}
+Check.num_2 = 789;
+var obj = new Check();
+obj.function_1();
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoidGVzdE9uZUZvclR5cGVzY3JpcHQuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi9UU0ZpbGVzL3Rlc3RPbmVGb3JUeXBlc2NyaXB0LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLElBQUksT0FBTyxHQUFVLGFBQWEsQ0FBQTtBQUNsQyxPQUFPLENBQUMsR0FBRyxDQUFDLE9BQU8sQ0FBQyxDQUFBO0FBQ3BCLE1BQU0sS0FBSztJQUFYO1FBQ0ksVUFBSyxHQUFVLEdBQUcsQ0FBQztJQU92QixDQUFDO0lBSkcsVUFBVTtRQUVOLE9BQU8sQ0FBQyxHQUFHLENBQUMscUJBQXFCLENBQUMsQ0FBQztJQUN2QyxDQUFDOztBQUxNLFdBQUssR0FBRyxHQUFHLENBQUM7QUFRdkIsSUFBSSxHQUFHLEdBQUcsSUFBSSxLQUFLLEVBQUUsQ0FBQztBQUN0QixHQUFHLENBQUMsVUFBVSxFQUFFLENBQUMifQ==

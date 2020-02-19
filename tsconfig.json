@@ -1,0 +1,15 @@
+{
+	"compilerOptions": {
+	  "target": "es6",
+	  "module": "commonjs",
+	  "moduleResolution": "node",
+	  "inlineSourceMap": true,
+	  "declaration": false,
+		"noImplicitAny": false,
+		"resolveJsonModule":true,
+	  "outDir": "e2e/shop_demoqa/src/automationtest"
+	},
+	"exclude": [
+	  "node_modules"
+	]
+}

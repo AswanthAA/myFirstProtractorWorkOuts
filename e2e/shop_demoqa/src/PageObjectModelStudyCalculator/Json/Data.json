@@ -1,0 +1,28 @@
+{   
+    "Addition":[{   "num1": 10,
+                    "num2": 10,
+                    "result": 20,
+                    "experssion":"10 + 10"
+                },{},{}],
+
+    "Subtraction":[{
+                        "num1":20,
+                        "num2":11,
+                        "result":9,
+                        "experssion":"20 - 11"
+                    }],
+
+    "multiplication":[{
+                        "num1":2,
+                        "num2":4,
+                        "result":8,
+                        "experssion":"2 * 4"
+                    }],
+
+    "division":[{
+                    "num1":10,
+                    "num2":2,
+                    "result":5,
+                    "experssion":"10 / 2"
+                }]
+}

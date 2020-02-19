@@ -1,0 +1,24 @@
+{
+  "name": "protractor_framework_setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aswanth a a",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^12.12.7",
+    "allure-commandline": "^2.13.0",
+    "chercher-tech-jasmine-reporter": "^1.0.5",
+    "jasmine-allure-reporter": "^1.0.2",
+    "protractor": "^5.4.2",
+    "protractor-jasmine2-html-reporter": "0.0.7",
+    "typescript": "^3.7.2"
+  },
+  "devDependencies": {
+    "@types/jasmine": "^3.4.6",
+    "jasmine-spec-reporter": "^4.2.1"
+  }
+}
